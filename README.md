@@ -1,4 +1,4 @@
-# Hacktoberfest Checkpoint
+# Hacktoberfest Check Point
 Submit PR here to take your prize
 
 # Contributors
