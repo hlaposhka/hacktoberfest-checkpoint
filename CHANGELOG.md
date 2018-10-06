@@ -4,3 +4,5 @@ Deprecated for once-stable features removed in upcoming releases.
 Removed for deprecated features removed in this release.
 Fixed for any bug fixes.
 Security to invite users to upgrade in case of vulnerabilities.
+
+* push v branchi moi comitiki paskuda
