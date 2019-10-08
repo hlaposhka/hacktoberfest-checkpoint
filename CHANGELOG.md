@@ -6,3 +6,4 @@ Fixed for any bug fixes.
 Security to invite users to upgrade in case of vulnerabilities.
 
 * push v branchi moi comitiki paskuda
+* push v branchi v 2019 sooka
