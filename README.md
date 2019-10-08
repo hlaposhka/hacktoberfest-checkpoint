@@ -2,7 +2,7 @@
 Submit PR here to take your prize
 
 ## Goals
-- [x] Have a fun
+- [ ] Have a fun
 
 ## Contributors
 * You are next!
