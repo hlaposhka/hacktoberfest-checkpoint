@@ -3,6 +3,7 @@ Submit PR here to take your prize
 
 ## Goals
 - [ ] Have a fun
+- [ ] Get T-shirt
 
 ## Contributors
 * You are next!
