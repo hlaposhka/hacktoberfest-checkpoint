@@ -1,4 +1,4 @@
-# Hacktoberfest Check Point
+# Hacktoberfest 2020 Check Point
 Submit PR here to take your prize
 
 ## Goals
