@@ -7,3 +7,4 @@ Security to invite users to upgrade in case of vulnerabilities.
 
 * push v branchi moi comitiki paskuda
 * push v branchi v 2019 sooka
+* push v branchi v 2020 ty ponyal?
