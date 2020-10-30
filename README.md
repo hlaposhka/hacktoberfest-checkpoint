@@ -2,9 +2,9 @@
 Submit PR here to take your prize
 
 ## Goals
-- [ ] Have a fun
-- [ ] Get T-shirt
-- [ ] Become OSS contributor
+- [x] Have a fun
+- [x] Get T-shirt
+- [x] Become OSS contributor
 
 ## Contributors
 * You are next!
